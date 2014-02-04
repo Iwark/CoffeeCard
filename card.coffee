@@ -32,7 +32,7 @@ class Battle
 		else
 			console.log "#{@player2.name}の勝ち！"
 	makeBattle: ->
-		while game.checkLife(me , you)
+		while game.checkLife()
 			@makeTurn()
 		@showWinner()
 	makeTurn: ->
