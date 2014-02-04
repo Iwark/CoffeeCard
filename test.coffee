@@ -92,6 +92,7 @@ class Player
 
 		#やりたいこと
 		#opponent.HP から @power と opponent.save　をひきたいよ
+		#Tommyのコード解読してがんばるよ
 
 
 		  
